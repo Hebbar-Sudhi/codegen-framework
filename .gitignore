@@ -1,4 +1,0 @@
-# Ignore Windows null device file
-nul
-.env
-.claude/settings.local.json
